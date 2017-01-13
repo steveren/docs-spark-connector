@@ -56,5 +56,5 @@ versions of Apache Spark and MongoDB:
       spark-sql
       java-api
       python-api
-      sparkR
+      r-api
       faq
