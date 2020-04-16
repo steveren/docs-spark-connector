@@ -1,5 +1,7 @@
 name = "spark-connector"
 
+toc_landing_pages = ["/java-api", "/python-api", "/scala-api", "/r-api", "/"]
+
 [constants]
 current-version = "2.4.0"
 spark-core-version = "2.4.0"
