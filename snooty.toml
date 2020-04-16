@@ -1,5 +1,7 @@
 name = "spark-connector"
 
+title = "MONGODB SPARK CONNECTOR"
+
 toc_landing_pages = ["/java-api", "/python-api", "/scala-api", "/r-api", "/"]
 
 [constants]
